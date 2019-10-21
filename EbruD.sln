@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbruD", "EbruD\EbruD.csproj", "{56BB7ADB-CA83-45A6-B7F2-139D1FA70F4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56BB7ADB-CA83-45A6-B7F2-139D1FA70F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BB7ADB-CA83-45A6-B7F2-139D1FA70F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BB7ADB-CA83-45A6-B7F2-139D1FA70F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BB7ADB-CA83-45A6-B7F2-139D1FA70F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD4372E9-8493-4BF5-AF92-627E8E142392}
+	EndGlobalSection
+EndGlobal
